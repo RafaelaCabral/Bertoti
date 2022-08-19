@@ -4,7 +4,6 @@
 Titus Winters, Software Engineering at Google
 
 <h5>Comentário: <h5>
- <br>
 Embora um engenherio de software possa ser considerado um desenvolvedor de software, as suas responsabilidades vão além do código. Sendo assim, ela está altamente conectada com gerenciamento do tempo, planejamento e as mudanças que podem ocorrer ao longo do projeto.
-
+ <br>
 <h5>Tradepooff <h5>
