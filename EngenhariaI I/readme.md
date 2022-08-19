@@ -3,4 +3,4 @@
 
 Titus Winters, Software Engineering at Google
 
-Comentário: Ao contrário do que pessoas pensam sobre engenharia de software, na qual ela é extritamente voltada a programação, ela está mais conectada com o tempo, planejamento e as mudanças que podem ocorrer ao longo do projeto.
+Comentário: Embora um engenherio de software possa ser considerado um desenvolvedor de software, as suas responsabilidades vão além do código. Sendo assim, ela está altamente conectada com gerenciamento do tempo, planejamento e as mudanças que podem ocorrer ao longo do projeto. 
