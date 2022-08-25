@@ -8,3 +8,6 @@ Embora um engenherio de software possa ser considerado um desenvolvedor de softw
  <br>
 <h5>Trade off no API:</h5>
 O trade off pode ser descrito como as decisões necessárias que uma pessoa tem que tomar para realizar determinadas ações, entretanto, não existe uma decisão ruim, mas sim a melhor decisão para a ação que precisa ser tomada para que traga os melhores resultados. Partindo desse princípio, quando tratamos do trade off no API, estamos nos referindo a melhor decisão para realizar o projeto, um exemplo claro disso foi na escolha da melhor plataforma para realizar o wireframe do projeto, na qual foi escolhida aquela que nos traria melhores resultados.
+
+<h5>Atividade de requisitos:</h5>
+Situação: um aplicativo de caronas está com problemas para que seus usuários entrem em contato com o oferecedor de carona, quando não é este problema, na hora de avaliar a carona oferecida é mostrado uma mensagem de erro, na qual é utilizado essa informação na hora de outras pessoas procurarem caronas.
