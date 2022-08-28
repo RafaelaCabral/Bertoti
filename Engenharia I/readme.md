@@ -14,10 +14,14 @@ O trade off pode ser descrito como as decisões necessárias que uma pessoa tem 
 <h3>Requisitos Funcionais e Não-Funcionais de aplicativo para compras de roupas: </h3>
 <br>
 <h4>Funcionais:</h4> 
-*Realizar pesquisas por roupas
-*Ordenar do menor ao maior valor
-*Recomendações de roupas semelhantes as escolhidas anteriormente
--
+- Realizar pesquisas por roupas.
+- Ordenar do menor ao maior valor.
+- Recomendações de roupas semelhantes as escolhidas anteriormente.
+- Comprar de lojas próximas ou com frete baixo.
 <br>
 <h4>Não funcionais:</h4> 
+- Custo benefício nos produtos.
+- Plataforma rápida e intuitiva.
+- Feedback de outros clientes sobre o produto.
+- Contato rápido com o suporte
 <br>
