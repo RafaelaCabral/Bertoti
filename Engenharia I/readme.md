@@ -14,5 +14,5 @@ O trade off pode ser descrito como as decisões necessárias que uma pessoa tem 
 <br>
 <h5>Funcionais:</h5> A pessoa pode escolher o dia e hora que prefere viajar, pode encontrar pessoas que ofereçam caronas com pontos de embarque e desembarque próximo do esperado e avaliações recebidas.
 <br>
-<h5>Não funcionais:</h5> erros na comunicação com o motorista e avaliar a carona oferecida.
+<h5>Não funcionais:<h5> erros na comunicação com o motorista e avaliar a carona oferecida.
 <br>
