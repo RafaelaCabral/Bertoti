@@ -11,9 +11,13 @@ Embora um engenherio de software possa ser considerado um desenvolvedor de softw
 O trade off pode ser descrito como as decisões necessárias que uma pessoa tem que tomar para realizar determinadas ações, entretanto, não existe uma decisão ruim, mas sim a melhor decisão para a ação que precisa ser tomada para que traga os melhores resultados. Partindo desse princípio, quando tratamos do trade off no API, estamos nos referindo a melhor decisão para realizar o projeto, um exemplo claro disso foi na escolha da melhor plataforma para realizar o wireframe do projeto, na qual foi escolhida aquela que nos traria melhores resultados.
 
 ## 25/08/2022 - Atividade de requisitos
-<h4>Situação: </h4> Um aplicativo de caronas foi desenvolvido com o intuito para que as pessoas que estão viajando sozinhas ofereçam caronas para locais proximo ao seu destino, sendo assim, o ofertado pagará um valor simbolico ao oferecedor. Nesse aplicativo contém informações simples antes de escolher a melhor carona, como: data e horário, ponto de embarque e desembarque, além de que você pode analisar as avaliações já recebidas pelo motorista e conversar com o próprio, portanto, é considerado seguro.Entretanto, ele está com alguns problemas na sua interface, como: dificuldade da comunicação entrem o cliente com o oferecedor de carona e quando a carona já foi realizada, na hora de avaliar é apresentada uma mensagem de erro pedindo para que tente novamente e repita os passos anteriores, tornando em loops infinitos.
+<h3>Requisitos Funcionais e Não-Funcionais de aplicativo para compras de roupas: </h3>
 <br>
-<h4>Funcionais:</h4> A pessoa pode escolher o dia e hora que prefere viajar, pode encontrar pessoas que ofereçam caronas com pontos de embarque e desembarque próximo do esperado e avaliações recebidas.
+<h4>Funcionais:</h4> 
+*Realizar pesquisas por roupas
+*Ordenar do menor ao maior valor
+*Recomendações de roupas semelhantes as escolhidas anteriormente
+-
 <br>
-<h4>Não funcionais:</h4> erros na comunicação com o motorista e avaliar a carona oferecida.
+<h4>Não funcionais:</h4> 
 <br>
