@@ -14,14 +14,20 @@ O trade off pode ser descrito como as decisões necessárias que uma pessoa tem 
 <h3>Requisitos Funcionais e Não-Funcionais de aplicativo para compras de roupas: </h3>
 <br>
 <h4>Funcionais:</h4> 
-- Realizar pesquisas por roupas.
-- Ordenar do menor ao maior valor.
-- Recomendações de roupas semelhantes as escolhidas anteriormente.
-- Comprar de lojas próximas ou com frete baixo.
+- Realizar pesquisas por roupas. <br>
+- Ordenar do menor ao maior valor. <br>
+- Recomendações de roupas semelhantes as escolhidas anteriormente. <br>
+- Comprar de lojas próximas ou com frete baixo. <br>
 <br>
 <h4>Não funcionais:</h4> 
-- Custo benefício nos produtos.
-- Plataforma rápida e intuitiva.
-- Feedback de outros clientes sobre o produto.
-- Contato rápido com o suporte
+- Custo benefício nos produtos. <br>
+- Plataforma rápida e intuitiva. <br>
+- Feedback de outros clientes sobre o produto. <br>
+- Contato rápido com o suporte. <br>
+<br>
+<h4>Situação: </h4> Um aplicativo de caronas foi desenvolvido com o intuito para que as pessoas que estão viajando sozinhas ofereçam caronas para locais proximo ao seu destino, sendo assim, o ofertado pagará um valor simbolico ao oferecedor. Nesse aplicativo contém informações simples antes de escolher a melhor carona, como: data e horário, ponto de embarque e desembarque, além de que você pode analisar as avaliações já recebidas pelo motorista e conversar com o próprio, portanto, é considerado seguro.Entretanto, ele está com alguns problemas na sua interface, como: dificuldade da comunicação entrem o cliente com o oferecedor de carona e quando a carona já foi realizada, na hora de avaliar é apresentada uma mensagem de erro pedindo para que tente novamente e repita os passos anteriores, tornando em loops infinitos.
+<br>
+<h4>Funcionais:</h4> A pessoa pode escolher o dia e hora que prefere viajar, pode encontrar pessoas que ofereçam caronas com pontos de embarque e desembarque próximo do esperado e avaliações recebidas.
+<br>
+<h4>Não funcionais:</h4> erros na comunicação com o motorista e avaliar a carona oferecida.
 <br>
