@@ -23,3 +23,6 @@ O trade off pode ser descrito como as decisões necessárias que uma pessoa tem 
 - Plataforma rápida e intuitiva. <br>
 - Feedback de outros clientes sobre o produto. <br>
 - Contato rápido com o suporte. <br>
+
+## 01/09/2022 - Atividade Diagrama de Classes
+<h3>Diagrama de classes de aplicativo para compras de roupas: </h3>
