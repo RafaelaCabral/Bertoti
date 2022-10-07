@@ -31,4 +31,4 @@ O trade off pode ser descrito como as decisões necessárias que uma pessoa tem 
 
 ## 22/09/2022 - Diagrama de Casos de Uso
 <br>
-<img align="center"src="Imagens/casos_de_uso.png" height= "618" width= "1150"/>
+<img align="center"src="Imagens/casos_de_uso.png" height= "1150" width= "618"/>
