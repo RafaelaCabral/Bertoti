@@ -28,6 +28,6 @@ O trade off pode ser descrito como as decisões necessárias que uma pessoa tem 
 
 ## 01/09/2022 - Atividade Diagrama de Classes
 <h3>Diagrama de classes de aplicativo para compras de roupas: </h3>
-<br>
+
 ## 22/09/2022 - Diagrama de Casos de Uso
 <img align="center"src="Imagens/casos_de_uso.png" height= "400" width= "600"/>
