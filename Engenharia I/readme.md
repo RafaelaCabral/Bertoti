@@ -10,21 +10,18 @@ Embora um engenherio de software possa ser considerado um desenvolvedor de softw
 O trade off pode ser descrito como as decisões necessárias que uma pessoa tem que tomar para realizar determinadas ações, entretanto, não existe uma decisão ruim, mas sim a melhor decisão para a ação que precisa ser tomada para que traga os melhores resultados. Partindo desse princípio, quando tratamos do trade off no API, estamos nos referindo a melhor decisão para realizar o projeto, um exemplo claro disso foi na escolha da melhor plataforma para realizar o wireframe do projeto, na qual foi escolhida aquela que nos traria melhores resultados.
 
 ## 25/08/2022 - Atividade de requisitos
-<h3>Requisitos Funcionais e Não-Funcionais de aplicativo para compras de roupas: </h3>
+<h3>Requisitos Funcionais e Não-Funcionais de aplicativo para notas escolares: </h3>
 <br>
 <h4>Funcionais:</h4> 
-- Realizar o cadastro no site.<br>
-- Entrar em contato com o vendedor pelo chat.<br>
-- Realizar pesquisas por roupas. <br>
-- Ordenar do menor ao maior valor. <br>
-- Recomendações de roupas semelhantes as escolhidas anteriormente. <br>
-- Comprar de lojas próximas ou com frete baixo. <br>
+- Realizar o cadastro dos alunos.<br>
+- Lançar a nota dos alunos no sistema.<br>
+- Realizar o cadastro do professor. <br>
 <br>
 <h4>Não funcionais:</h4> 
-- Custo benefício nos produtos. <br>
-- Plataforma rápida e intuitiva. <br>
-- Feedback de outros clientes sobre o produto. <br>
-- Contato rápido com o suporte. <br>
+- Facilidade do aluno ao visualizar suas notas. <br>
+- Facilidade do professor em colocar a nota dos alunos. <br>
+- Calculo da média anual de cada aluno. <br>
+
 
 ## 01/09/2022 - Atividade Diagrama de Classes
 <h3>Diagrama de classes de aplicativo para compras de roupas: </h3>
