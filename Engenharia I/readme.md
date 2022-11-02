@@ -13,13 +13,13 @@ O trade off pode ser descrito como as decisões necessárias que uma pessoa tem 
 <h3>Requisitos Funcionais e Não-Funcionais de aplicativo para notas escolares: </h3>
 <br>
 <h4>Funcionais:</h4> 
-- O professor pode realizar o cadastro dos alunos, com nome, número do Registro Acadêmico e Email.<br>
-- O professor pode lançar a nota dos alunos no sistema.<br>
-- O professor pode realizar o seu cadastro, com nome, nome da disciplina e Email. <br>
+- A escola pode cadastrar as disciplinas no sistema com: código, nome da disciplina, nome e email do professor.<br>
+- A escola pode buscar a disciplina com o código.<br>
+- A escola pode buscar a disciplina conforme as informações fornecidas.<br>
 <br>
 <h4>Não funcionais:</h4> 
-- Facilidade do professor para publicar as notas do seu aluno. <br>
-- Facilidade do aluno para visualizar as suas notas no sistema. <br>
+- Facilidade da escola para cadastrar as disciplinas. <br>
+- Facilidade da escola para realizar a busca das disciplinas no sistema. <br>
 - Plataforma rápida e intuitiva. <br>
 
 
