@@ -10,7 +10,7 @@ Titus Winters, Software Engineering at Google
 <p align="justify"> O trade off pode ser descrito como as decisões necessárias que uma pessoa tem que tomar para realizar determinadas ações, entretanto, não existe uma decisão ruim, mas sim a melhor decisão para a ação que precisa ser tomada para que traga os melhores resultados. Partindo desse princípio, quando tratamos do trade off no API, estamos nos referindo a melhor decisão para realizar o projeto, um exemplo claro disso foi na escolha da melhor plataforma para realizar o wireframe do projeto, na qual foi escolhida aquela que nos traria melhores resultados. </p>
 
 ## 25/08/2022 - Atividade de requisitos
-<h3>Requisitos Funcionais e Não-Funcionais de aplicativo para notas escolares: </h3>
+<h3>Requisitos Funcionais e Não-Funcionais de aplicativo para cadastramento de disciplinas escolares: </h3>
 <br>
 <h4>Funcionais:</h4> 
 - A escola pode cadastrar as disciplinas no sistema com: código, nome da disciplina, nome e email do professor.<br>
@@ -23,7 +23,7 @@ Titus Winters, Software Engineering at Google
 - Plataforma rápida e intuitiva. <br>
 
 ## 01/09/2022 - Atividade Diagrama de Classes
-<h3>Diagrama de classes de aplicativo para cadastramento de disciplina: </h3>
+<h3>Diagrama de classes de aplicativo para cadastramento de disciplinas escolares: </h3>
 <img align="center"src="Imagens/Diagramadeclasses.jpg" height= "518" width= "2050"/>
 
 ## 22/09/2022 - Diagrama de Casos de Uso
