@@ -12,7 +12,7 @@ Titus Winters, Software Engineering at Google
 ## 25/08/2022 - Atividade de requisitos
 <h3>Requisitos Funcionais e Não-Funcionais de aplicativo para cadastramento de disciplinas escolares: </h3>
 <br>
-<h4>Funcionais:</h4> 
+<h3>Funcionais:</h3> 
 - A escola pode cadastrar as disciplinas no sistema com: código, nome da disciplina, nome e email do professor.<br>
 - A escola pode buscar a disciplina com o código.<br>
 - A escola pode buscar a disciplina conforme as informações fornecidas.<br>
