@@ -20,7 +20,7 @@ Titus Winters, Software Engineering at Google
 <h3> Diagrama de Casos de Uso </h3>
 <br>
 <img align="center"src="Imagens/casodeuso.jpg" height= "618" width= "1150"/>
-<h4>Não funcionais:</h4> 
+<h3>Não funcionais:</h3> 
 - Facilidade da escola para cadastrar as disciplinas. <br>
 - Facilidade da escola para realizar a busca das disciplinas no sistema. <br>
 - Plataforma rápida e intuitiva. <br>
