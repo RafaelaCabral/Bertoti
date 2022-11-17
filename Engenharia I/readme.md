@@ -17,7 +17,7 @@ Titus Winters, Software Engineering at Google
 - A escola pode buscar a disciplina com o código.<br>
 - A escola pode buscar a disciplina conforme as informações fornecidas.<br>
 <br>
-## 01/09/2022 - Diagrama de Casos de Uso
+<h2> Diagrama de Casos de Uso </h2>
 <br>
 <img align="center"src="Imagens/casodeuso.jpg" height= "618" width= "1150"/>
 <h4>Não funcionais:</h4> 
