@@ -24,7 +24,7 @@ Titus Winters, Software Engineering at Google
 
 ## 01/09/2022 - Atividade Diagrama de Classes
 <h3>Diagrama de classes de aplicativo para cadastramento de disciplinas escolares: </h3>
-<img align="center"src="Imagens/Diagramadeclasses.jpg" height= "518" width= "2050"/>
+<img align="center"src="Imagens/Diagramade_Classes.jpg" height= "518" width= "2050"/>
 
 ## 22/09/2022 - Diagrama de Casos de Uso
 <br>
