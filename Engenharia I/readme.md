@@ -17,14 +17,14 @@ Titus Winters, Software Engineering at Google
 - A escola pode buscar a disciplina com o código.<br>
 - A escola pode buscar a disciplina conforme as informações fornecidas.<br>
 <br>
-<h2> Diagrama de Casos de Uso </h2>
+<h3> Diagrama de Casos de Uso </h3>
 <br>
 <img align="center"src="Imagens/casodeuso.jpg" height= "618" width= "1150"/>
 <h4>Não funcionais:</h4> 
 - Facilidade da escola para cadastrar as disciplinas. <br>
 - Facilidade da escola para realizar a busca das disciplinas no sistema. <br>
 - Plataforma rápida e intuitiva. <br>
-<h2> Atividade Diagrama de Classes </h2>
-<h3>Diagrama de classes de aplicativo para cadastramento de disciplinas escolares: </h3>
+<h3> Atividade Diagrama de Classes </h3>
+<h4>Diagrama de classes de aplicativo para cadastramento de disciplinas escolares: </h4>
 <img align="center"src="Imagens/Diagrama_Classes.jpg" height= "518" width= "2050"/>
 
