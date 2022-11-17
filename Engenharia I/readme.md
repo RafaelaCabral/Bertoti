@@ -22,10 +22,11 @@ Titus Winters, Software Engineering at Google
 - Facilidade da escola para realizar a busca das disciplinas no sistema. <br>
 - Plataforma rápida e intuitiva. <br>
 
-## 01/09/2022 - Atividade Diagrama de Classes
+## 01/09/2022 - Diagrama de Casos de Uso
+<br>
+<img align="center"src="Imagens/casodeuso.jpg" height= "618" width= "1150"/>
+
+## 22/09/2022 - Atividade Diagrama de Classes
 <h3>Diagrama de classes de aplicativo para cadastramento de disciplinas escolares: </h3>
 <img align="center"src="Imagens/Diagrama_Classes.jpg" height= "518" width= "2050"/>
 
-## 22/09/2022 - Diagrama de Casos de Uso
-<br>
-<img align="center"src="Imagens/casodeuso.jpg" height= "618" width= "1150"/>
