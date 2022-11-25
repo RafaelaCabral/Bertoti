@@ -28,4 +28,7 @@ Titus Winters, Software Engineering at Google
 <h4>Diagrama de classes de aplicativo para cadastramento de disciplinas escolares: </h4>
 <img align="center"src="Imagens/Diagrama_Classes.jpg" height= "518" width= "2050"/>
 <br>
-<h4> Diagrama de Casos de Uso </h4>
+<h3>Classe Escola:</h3> 
+<h3>Classe Disciplina:</h3> 
+<h3>Classe Identificacao:</h3> 
+<h3>Classe Teste:</h3> 
