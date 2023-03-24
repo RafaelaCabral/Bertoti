@@ -1,7 +1,8 @@
 # Avaliação Heurística GUI - Aplicação
 
-###  1 - Visibilidade do status do sistema: 
-O usuário poderá diagnosticar o que está acontecendo sem ajuda extra, sendo assim, poderá decidir com maior facilidade quais passos deseja tomar após.
+<h1> 1 - Visibilidade do status do sistema: </h1>
+<p> O usuário poderá diagnosticar o que está acontecendo sem ajuda extra, sendo assim, poderá decidir com maior facilidade quais passos deseja tomar após.</p>
+
 #### Boa aplicação: 
 Quando assistimos os vídeos no youtube e estamos sendo informados sobre tudo que ocorre na tela, como: o quanto o vídeo já foi carregado, tempo de duração e na barra do player que mostra quais vídeos já foram assistidos, qual é o atual e qual será o próximo.
 #### Aplicação com falhas: 
