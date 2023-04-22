@@ -80,7 +80,8 @@ O usuário não deve ter que se lembrar de todas as ações ou funções da inte
 </p>
 
 <img src = "Imagens/heuristica10.png"><br>
+<img src = "Imagens/heuristica10ruim.png"><br>
 
-<p>No exemplo acima, no site da Dafiti, por exemplo, tem um FAQ que permite aos usuários verem as dúvidas mais frequentes e suas respectivas soluções, podendo assim resolver por conta um problema que esteja aqui.</p>
+<p>No exemplo acima, no site da Dafiti, por exemplo, tem um FAQ que permite aos usuários verem as dúvidas mais frequentes e suas respectivas soluções, podendo assim resolver por conta um problema que esteja aqui. Já o site da Americanas não possui essa funcionalidade.</p>
 <p>É importante que a interface não forneça muitas informações na área de documentação e ajuda, pois isso poderia tornar a experiência do usuário maçante.</p>
 
