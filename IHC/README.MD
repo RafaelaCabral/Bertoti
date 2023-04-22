@@ -27,8 +27,10 @@ visuais que possam facilitar a interação do usuário com a interface</p>
 
 <h3>4 - Consistência e padrões:</h3>
 <p>Essa heurística diz respeito a manter uma mesma linguagem durante toda a interface para não confundir o usuário. Nesse sentido, durante a interação, os usuários não devem ter dúvidas sobre o significado das palavras, ícones ou símbolos utilizados. Portanto, é fundamental que uma interface siga as convenções da plataforma, mantendo padrões de interação em diversos e diferenciados contextos. É necessário que a interface fale a mesma língua o tempo todo e trate coisas similares da mesma maneira. Assim, facilitará que o usuário identifique o padrão existente naquela interface.</p>
+<p>Em página de aviso normalmente deveriamos ter cores que chamam mais atenção para avisos mais importantes, porém este é outro ponto em que o SIGA peca em deixar a tela de avisos pobre</p>
 
 <img src = "Imagens/heuristica04.png"><br>
+<img src = "Imagens/heuristica04ruim.png"><br>
 
 <h3>5 - Prevenção de Erros:</h3>
 <p>Essa heurística de Nielsen propõe que a interface esteja apta a prevenir qualquer tipo de ação descuidada do usuário. É bom prevenir que o usuário se frustre ao ter os arquivos deletados, ou colocar uma formatação que não é especificada no site, é importante criar uma mensagem de aviso da ação, para que haja a confirmação ou não da decisão.</p>
@@ -68,8 +70,9 @@ O usuário não deve ter que se lembrar de todas as ações ou funções da inte
 </p>
 
 <img src = "Imagens/heuristica09.png"><br>
+<img src = "Imagens/heuristica09bom.png"><br>
 
-<p>No exemplo acima temos o exemplo de página não encontrada, porém para alguns usuários mais leigos isso pode não ajudar, já que as informações estão em inglês, o que torna difícil para muitos deles reconhecer o erro de uma maneira melhor.</p>
+<p>No exemplo acima temos o exemplo de página não encontrada, porém para alguns usuários mais leigos isso pode não ajudar, já que as informações estão em inglês, o que torna difícil para muitos deles reconhecer o erro de uma maneira melhor. Enquanto a segunda imagem deixa claro funções para recuperar páginas que talvez ele tenha saido por engano ou entrado por engano</p>
 
 <h3>10 - Ajuda e documentação:</h3>
 <p>A última das heurísticas de Nielsen diz respeito a inclusão de itens de auxílio para o usuário. Apesar de todas as heurísticas listadas ajudarem a evitar erros e solicitação de ajuda por parte do usuário, é importante pensar em maneiras de auxiliá-lo a qualquer momento de sua interação.</p>
