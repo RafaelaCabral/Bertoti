@@ -1,10 +1,10 @@
 # Avaliação Heurística GUI - Aplicação
 
-<h3>1 - Visibilidade do status do sistema: </h3>
-<p>O usuário poderá diagnosticar o que está acontecendo sem ajuda extra, sendo assim, poderá decidir com maior facilidade quais passos deseja tomar após.</p>
-<h4>Boa aplicação: </h4>
-<p>Quando assistimos os vídeos no youtube e estamos sendo informados sobre tudo que ocorre na tela, como: o quanto o vídeo já foi carregado, tempo de duração e na barra do player que mostra quais vídeos já foram assistidos, qual é o atual e qual será o próximo.</p>
-<h4>Aplicação com falhas: </h4>
+<h3>1 - Visibilidade do status: </h3>
+<p>Essa heurística é importantíssima, pois, ao interagirmos com a interface normalmente estamos envolvidos com diversos processos, por esse motivo é importante que o usuário saiba em que nível ele se encontra, quantos passos faltam para que ele conclua seu processo e que esse feedback seja feito em tempo instantâneo.</p>
+<p>O Youtube, por exemplo, disponibiliza uma barra lateral informando qual vídeo estamos vendo, quais já foram assistidos e quais são os próximos da lista.
+</p>
+<img scr="/Imagens/heuristica01.png"> </img><br>
 
 <h3>2 - Relação entre sistema e o mundo real: </h3>
 <p>O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, sendo assim, deverá utilizar palavras, frases, imagens e conceitos que sejam familiares a seu usuário. Além disso, recomendasse que utilize ícones que representam a ação para realizar essa correspondencia.</p>
