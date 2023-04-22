@@ -20,8 +20,10 @@ visuais que possam facilitar a interação do usuário com a interface</p>
 
 <h3>3 - Liberdade e controle do usuário:</h3>
 <p>Nunca se deve impor uma ação ao usuário ou tomar decisões por ele. Pelo contrário, deve-se apenas saber sugerir as ações sem pressionar ou induzi-lo a algo. É muito importante que o usuário tenha liberdade e possa decidir e tomar as ações que quiser — exceto quando existem regras que vão contra o sistema ou interferem em alguma funcionalidade. No entanto, é preciso levar em consideração que o usuário pode tomar uma ação errada ou se arrepender da decisão que tomou, por isso, é necessário pensar em funções como fazer e desfazer para que o usuário consiga desfazer e refazer suas ações conforme suas necessidades.</p>
+<p>Alguns aplicativos que são baixados no pc não permitem sua desinstalação por meio do painel de controle, ou outros modos mais simples e para resolver esse problema o usuário tem que ir atrás de itens ocultos para que seja possível desinstalar esse determinado app, o que é uma extrema perda de tempo e nada agradável para o utilizador.</p>
 
 <img src = "Imagens/heuristica03.png"><br>
+<img src = "Imagens/heuristica03ruim.png"><br>
 
 <h3>4 - Consistência e padrões:</h3>
 <p>Essa heurística diz respeito a manter uma mesma linguagem durante toda a interface para não confundir o usuário. Nesse sentido, durante a interação, os usuários não devem ter dúvidas sobre o significado das palavras, ícones ou símbolos utilizados. Portanto, é fundamental que uma interface siga as convenções da plataforma, mantendo padrões de interação em diversos e diferenciados contextos. É necessário que a interface fale a mesma língua o tempo todo e trate coisas similares da mesma maneira. Assim, facilitará que o usuário identifique o padrão existente naquela interface.</p>
