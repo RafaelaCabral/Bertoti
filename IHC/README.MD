@@ -4,7 +4,8 @@
 <p>Essa heurística é importantíssima, pois, ao interagirmos com a interface normalmente estamos envolvidos com diversos processos, por esse motivo é importante que o usuário saiba em que nível ele se encontra, quantos passos faltam para que ele conclua seu processo e que esse feedback seja feito em tempo instantâneo.</p>
 <p>O Youtube, por exemplo, disponibiliza uma barra lateral informando qual vídeo estamos vendo, quais já foram assistidos e quais são os próximos da lista.
 </p>
-<img scr="Imagens/heuristica01.png"></img><br>
+
+<img src = "Imagens/heuristica01.png"><br>
 
 <h3>2 - Relação entre sistema e o mundo real: </h3>
 <p>O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, sendo assim, deverá utilizar palavras, frases, imagens e conceitos que sejam familiares a seu usuário. Além disso, recomendasse que utilize ícones que representam a ação para realizar essa correspondencia.</p>
