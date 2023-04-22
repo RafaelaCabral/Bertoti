@@ -59,10 +59,11 @@ O usuário não deve ter que se lembrar de todas as ações ou funções da inte
 
 <h3>8 - Estética e design minimalista:</h3>
 <p>O Designer Visual deve criar diálogos que contenham somente informações relevantes. Ou seja, evitar o uso desnecessário de elementos visuais que possam confundir o usuário. Cada informação extra compete com uma unidade de informação relevante e acaba por diminuir sua visibilidade.</p>
-<p>O site da aela possui um designer limpo e minimalista, sem informações em excesso que possam confundir o usuário.
+<p>O site da aela possui um designer limpo e minimalista, sem informações em excesso que possam confundir o usuário. Enquanto o site da Americanas é massante de tantas informações presentes.
 </p>
 
 <img src = "Imagens/heuristica08.png"><br>
+<img src = "Imagens/heuristica08ruim.png"><br>
 
 <h3>9 - Ajude o usuário a reconhecer, diagnosticar e recuperar erros:</h3>
 <p>A prevenção de erros do usuário é algo bastante importante dentro de uma interface. No entanto, mais importante ainda é ajudar o usuário a identificar e encontrar soluções para os problemas e erros encontrados durante a interação.</p>
