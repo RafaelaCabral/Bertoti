@@ -1,11 +1,44 @@
-<h1> Design Patterns </h1>
-
-
-| Nome do Padrão | Anti-Padrão | Definição do Padrão | Problema que Resolve | Exemplo |
-|----------------|-------------|---------------------|----------------------| ----------------------| 
-|Strategy.      | Herança.      | É um padrão de projeto que possibilita a criação de uma coleção de algoritmos, na qual são encapsulados em classes individuais. Isso permite que um objeto possa escolher dinamicamente entre diferentes algoritmos ou estratégias, sem modificar a estrutura do próprio objeto.         | Evita a duplicação de código.        |  Pode ser aplicado sempre que é preciso lidar com diferentes comportamentos ou algoritmos de maneira flexível e modular. Ele ajuda a separar as responsabilidades e tornar o código mais organizado e extensível. Ex: Plataformas de pagamento online, como o PayPal, podem aplicar o Strategy para lidar com diferentes métodos de pagamento, como cartões de crédito, transferências bancárias e pagamentos móveis. | 
-| Observer      | Alto acoplamento     | É um padrão de projeto comportamental que permite a definição de um mecanismo de assinatura para notificar multiplos objetos sobre quaisquer eventos que aconteçam com o objeto que eles estão observando     | Notificação automática múltipla          | É utilizado em muitos tipos diferentes de software para implementar a comunicação entre objetos quando mudanças de estado ocorrem. Ex: O Gmail aplica o padrão Observer para permitir que os usuários recebam notificações instantâneas sobre a chegada de novos e-mails, tornando a experiência de e-mail mais eficiente e responsiva.|
-| Composite     | Repetição de código     | É um padrão de projeto estrutural que permite a composição de objetos em estrutura de árvore e depois trabalhar com as estruturas como se fossem objetos individuais.       | Simplifica a manipulação de objetos individuais e suas composições          |É usado em softwares onde a estrutura de objetos precisa representar hierarquias de forma que objetos individuais e composições de objetos sejam tratados de maneira uniforme. Ex: O SharePoint utiliza o padrão Composite para criar uma estrutura hierárquica de documentos e informações, onde documentos individuais, pastas, bibliotecas e sites são tratados de maneira uniforme. |
-| Facade            | Complexidade inadequada         | É utilizado para fornecer uma interface simplificada e unificada para um subsistema mais complexo, reduzindo a dependência direta do cliente em relação aos componentes internos do subsistema, tornando o código mais organizado e manutenível.                | Simplifica e oculta a complexidade de sistemas complexos.             | É utilizado em sistemas de gerenciamento de banco de dados, pois torna a interação com o banco de dados mais simples e desacopla o cliente das complexidades internas do sistema de gerenciamento de banco de dados. |
-| Singleton            | ...         | É útilizado quando precisa de um ponto central para controlar a configuração, conexões com bancos de dados, gerenciamento de recursos ou quando deseja evitar a criação repetida de uma classe que consome muitos recursos. | Separar coisas que se repetem                  | ... |
-
+<table>
+    <tr>
+        <td>Nome do padrão</td>
+        <td>Anti-padrão</td>
+        <td>Definição do padrão</td>
+        <td>Problema que ele resolve</td>
+        <td>Onde é utilizado na arquitetura Java</td>
+    </tr>
+    <tr>
+        <td>Strategy</td>
+        <td>Herança</td>
+        <td>Encapsular uma familia de algoritmos e tornar intercambiável através de polimorfismo</td>
+        <td>Herança que duplica código</td>
+        <td>Usado em Java para Ordenação de coleções, Processamento de arquivos, Algoritmos de criptografia, Comportamento de validação, Implementação de algoritmos complexos, etc</td>
+    </tr>
+    <tr>
+        <td>Observer</td>
+        <td>Alto acoplamento</td>
+        <td>Permite definir um mecanismo de assinatura para notificar vários objetos sobre quaisquer eventos que ocorram com o objeto que eles estão observando</td>
+        <td>Evita o Alto acoplamento e torna o código baixo acoplado, evitando que fiquem de certo modo indistinguíveis</td>
+        <td>Usado em Java para GUI, MVC, Tratamento de eventos, Padrões de designer, Gerenciamento de dados, etc</td>
+    </tr>
+    <tr>
+        <td>Composite</td>
+        <td>Código de grande complexidade, difícil manutenção</td>
+        <td>Usado quando é necessário implementar uma estrutura de objeto semelhante a uma árvore</td>
+        <td>Evita a duplicação de código, usando o polimorfismo, e usa recursão, o que é essencial para a estrura em árvore, para separar o problema em partes, e resolve cada parte chamando uma cópia de si mesma.</td>
+        <td>Usado em Java para criar uma estrutura hierárquica de objetos de maneira que os objetos individuais e compostos possam ser tratados de maneira uniforme.</td>
+    </tr>
+    <tr>
+        <td>Facade</td>
+        <td>Uma única classe ou objeto assume muitas responsabilidades, tornando-o difícil de entender e modificar</td>
+        <td>Fornece uma interface simplificada para um conjunto de interfaces mais complexas em um subsistema. Ele atua como uma fachada ou ponto de entrada único para um conjunto de funcionalidades relacionadas, ocultando a complexidade interna do subsistema e tornando mais fácil para os clientes usarem</td>
+        <td>Resolve o problema de lidar com sistemas complexos, ocultando a complexidade dos clientes.</td>
+        <td>Usado em Java em bibliotecas de persistência de dados, como o Hibernate, onde uma fachada simplificada é fornecida para interagir com o sistema de gerenciamento de banco de dados subjacente, ocultando a complexidade das consultas SQL e outras operações.</td>
+    </tr>
+    <tr>
+        <td>Singleton</td>
+        <td>Múltiplas instâncias da classe parecem compartilhar o mesmo estado</td>
+        <td>O padrão Singleton garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a essa instância</td>
+        <td>Resolve o problema de garantir que uma classe tenha apenas uma única instância durante toda a vida útil do programa.</td>
+        <td>Usado em Java no gerenciamento de Conexões de banco de dados, Pools de objetos, Caches, Registros de log, Configurações de aplicativos, etc</td>
+    </tr>
+</table>
