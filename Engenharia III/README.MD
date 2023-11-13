@@ -18,14 +18,14 @@
         <td>Alto acoplamento</td>
         <td> Classe abstrata Observer, permite definir um mecanismo de assinatura para notificar vários objetos sobre quaisquer eventos que ocorram com o objeto que eles estão observando</td>
         <td>Evita o Alto acoplamento e torna o código baixo acoplado, evitando que fiquem de certo modo indistinguíveis</td>
-        <td>Usado em Java para GUI, MVC, Tratamento de eventos, Padrões de designer, Gerenciamento de dados, etc</td>
+        <td>Usado em Java para classe abstrata  abserver switch, MVC, Tratamento de eventos, Padrões de designer, Gerenciamento de dados, etc</td>
     </tr>
     <tr>
         <td>Composite</td>
         <td>Código de grande complexidade, difícil manutenção</td>
-        <td>O padrã Composite é o Gui com Java Swing. Usado quando é necessário implementar uma estrutura de objeto semelhante a uma árvore.</td>
+        <td>Usado quando é necessário implementar uma estrutura de objeto semelhante a uma árvore.</td>
         <td>Evita a duplicação de código, usando o polimorfismo, e usa recursão, o que é essencial para a estrura em árvore, para separar o problema em partes, e resolve cada parte chamando uma cópia de si mesma.</td>
-        <td>Usado em Java para criar uma estrutura hierárquica de objetos de maneira que os objetos individuais e compostos possam ser tratados de maneira uniforme.</td>
+        <td>O padrão Composite é o Gui com Java Swing. Usado em Java para criar uma estrutura hierárquica de objetos de maneira que os objetos individuais e compostos possam ser tratados de maneira uniforme.</td>
     </tr>
     <tr>
         <td>Facade</td>
